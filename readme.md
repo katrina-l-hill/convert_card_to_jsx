@@ -1,6 +1,6 @@
-Add the following to this `README.md` file:  
-  * A short report explaining your design decisions and any challenges faced.
-  * Documentation: Clear and concise documentation on how to run your application.
+# Converting HTML Profile Card to JSX
+
+# Author: Katrina Hill
 
 # Report
 This Converting HTML Profile Card to JSX application is structured using a parent-child component relationship. The `App` component serves as the main entry point, while the `UserProfile` component encapsulates the functionality and display logic for rendering user information. This modular design promotes reusability and separation of concerns, making it easier to manage and scale the application.
